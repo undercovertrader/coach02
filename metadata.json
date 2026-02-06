@@ -1,0 +1,7 @@
+{
+  "name": "MarScalper AI Coach",
+  "description": "A Mars-themed AI trading coach designed to analyze trade setups against the MarScalper Playbook, ensuring discipline and rule-based execution.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
